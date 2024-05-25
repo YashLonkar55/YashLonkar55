@@ -14,6 +14,10 @@ a
 
 - ⚡ Fun fact **Efficiency is my middle name – I get it all done!**
 
+ ⚡ Note **Due to some reasons moved my old github to new**
+          **Old Username- YashLonkar**
+ 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashlonkar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashlonkar12" height="30" width="40" /></a>
