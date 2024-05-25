@@ -8,7 +8,7 @@
 a
 - 🌱 I’m currently learning **Salesforce Admin, Figma** 
 
-- 📫 How to reach me **yashlonkar99@gmail.com**
+- 📫 How to reach me **lonkaryash81@gmail.com**
 
 - 📄 Know about me -><a href="https://drive.google.com/file/d/1YYj5PCJvCpjJpz5zXL8BxZU8ZEFL3qSS/view?usp=sharing" target="blank"> My Resume</a>
 
