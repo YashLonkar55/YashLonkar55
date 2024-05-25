@@ -14,7 +14,7 @@ a
 
 - ⚡ Fun fact **Efficiency is my middle name – I get it all done!**
 
- ⚡ Note **Due to some reasons moved my old github to new**
+-  Note **Due to some reasons moved my old github to new**
           **Old Username- YashLonkar**
  
  
